@@ -1,0 +1,9 @@
+name: cortex42's blog
+url: https://cortex42.github.io/
+description: cortex42's blog
+
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+gems: [jekyll-paginate]
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
