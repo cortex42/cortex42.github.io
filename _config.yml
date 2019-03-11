@@ -8,3 +8,5 @@ future: true
 
 gems: [jekyll-paginate]
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+theme: jekyll-theme-hacker
