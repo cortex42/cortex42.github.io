@@ -3,6 +3,12 @@ layout: default
 title: cortex42's blog
 ---
 
-{% for post in site.posts %}
-* {{ post.date | date: "%Y-%m-%d" }} [{{ post.title }}]({{ post.url }})
+{% for category in site.categories %}
+  <h2>{{ category[0] }}</h2>
+  <ul>
+    {% for post in category[1] %}
+      <li><a href="{{ post.url}}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
 {% endfor %}
+
