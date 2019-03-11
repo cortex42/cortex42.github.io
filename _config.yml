@@ -1,6 +1,6 @@
 name: cortex42's blog
 url: https://cortex42.github.io/
-description: cortex42's blog
+description: infosec writeups, tips and tricks
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
