@@ -12,5 +12,3 @@ exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
 theme: jekyll-theme-hacker
 
-twitter_username: cortex42
-github_username: cortex42
