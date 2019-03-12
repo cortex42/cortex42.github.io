@@ -1,6 +1,6 @@
 ---
 layout: default
-title: cortex42's blog
+title: cortex42's pentesting notes
 ---
 
 {% for category in site.categories %}
