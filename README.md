@@ -1,1 +1,1 @@
-My blog ([cortex42.github.io](https://cortex42.github.io)).
+My blog ([palaziv.github.io](https://palaziv.github.io)).
