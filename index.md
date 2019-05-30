@@ -1,6 +1,6 @@
 ---
 layout: default
-title: cortex42's pentesting notes
+title: palaziv's infosec notes
 ---
 
 {% for category in site.categories %}
