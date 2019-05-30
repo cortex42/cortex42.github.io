@@ -1,8 +1,8 @@
-title: cortex42's pentesting notes
-author: cortex42
-name: cortex42's pentesting notes
-url: https://cortex42.github.io/
-description: my personal collection of pentesting tips and tricks
+title: my infosec notes
+author: palaziv
+name: my infosec notes
+url: https://palaziv.github.io/
+description: my personal collection of infosec tips and tricks
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
